@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana Panicker</h1>
 <h3 align="center">A passionate Analytics Engineer from the Bay Area</h3>
 
-- 💬 Ask me about **I put the S in SQL**
+- 💬 Ask me about **DATA**
 
 - 📫 How to reach me **sanjanapanicker12@gmail.com**
 
